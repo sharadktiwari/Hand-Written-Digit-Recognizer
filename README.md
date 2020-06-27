@@ -9,7 +9,7 @@ MNIST data from keras and Digits from the Scikit-Learn library.
 1. Convolution Neurak Network
 2. Logistic Regression
 3. Random Forest
-4. SVM
+4. Support Vector Machine
 
 # Pre-Requisits:
 Must have Python3 installed
