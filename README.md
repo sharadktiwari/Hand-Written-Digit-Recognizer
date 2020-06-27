@@ -6,7 +6,7 @@
 MNIST data from keras and Digits from the Scikit-Learn library.
 
 # Classifier:
-1. CNN
+1. Convolution Neurak Network
 2. Logistic Regression
 3. Random Forest
 4. SVM
